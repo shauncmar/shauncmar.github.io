@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Shaun Cmar's ePortfolio
 
-You can use the [editor on GitHub](https://github.com/shauncmar/shauncmar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### A brief background
+As a part of my time at Southern New Hampshire University, and my professional career I have learned about the how to
+best design software.  My time in the industry began in 2006 when I attended the University of New Hampshire, and worked
+at a network testing lab.  After leaving the University of New Hampshire I spent some time working as a sales associate
+at best buy to keep myself in the industry, and to expand my soft skills.  During my time at Best Buy I began to take
+classes at NHTI in information technology, with a concentration in networking.  At the same time I began to work at
+a software development company, Newforma, in Manchester, NH as a support technician for the cloud product that they produced.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While completing my Associates in Information Technology, I advanced my capabilities at Newforma, and began performing
+Database Administration style work for them and worked very closely with a software engineer.  He recommended I shift out 
+of Technical Support and move into a Development Support position.  In this position, I wrote tools that developers would 
+use to make their day to day life easier.  These tools included a deployment pipeline which ran the developers code 
+through unit tests, deployment into a cloud environment, and acceptance test the now deployed code. During my time in this 
+role I learned a lot about the development process, from initial design, to coding, to code review.  
 
-### Markdown
+Today I work for Newforma as a Full Stack developer as well as finishing my Bachelors of Science in Computer Science from
+Souther New Hampshire University though their online program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shauncmar/shauncmar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Code Review
+The Code review process is a useful tool which Software Developers use to learn new skills, or best practices as well as 
+review the process.  I did an informal code review, using a [checklist](./CodeReview/SNHU_Code_Review_Checklist.pdf) 
+provided in my Capstone Class, CS-499 at SNHU.  During this code review I outline the changes I intend to make to the
+artifacts, and how they relate to my time within the courses. Please review the recording of my process to see how I
+perform a [code review](/CodeReview/Cmar_Code_Review.mp4).
