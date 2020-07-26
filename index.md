@@ -22,5 +22,4 @@ Souther New Hampshire University though their online program.
 The Code review process is a useful tool which Software Developers use to learn new skills, or best practices as well as 
 review the process.  I did an informal code review, using a [checklist](./CodeReview/SNHU_Code_Review_Checklist.pdf) 
 provided in my Capstone Class, CS-499 at SNHU.  During this code review I outline the changes I intend to make to the
-artifacts, and how they relate to my time within the courses. Please review the recording of my process to see how I
-perform a [code review](/CodeReview/Cmar_Code_Review.mp4).
+artifacts, and how they relate to my time within the course.
