@@ -20,6 +20,42 @@ Southern New Hampshire University though their online program.
 
 ### Professional Assessment
 
+During this course, I have had to act as an engineering team presenting to and collaborating with a stakeholder.  In 
+this instance the stakeholder, and collaborator has been my professor.  It started as a presentation of a code review.  
+I presented the artifact I was intending on making changes to, and recorded a walk-through of the code, and the 
+particular areas I intended on changing.  This type of walk through is critical to learning new best practices and 
+teaching a team member about why you coded the way you did.  
+	
+Each week I had to give an update to my stakeholder which included the status of my ePrortfolio, if I had to make any 
+changes on what my original plan was, and if I thought I was on track to complete the project in the allotted time.  
+This is a critical part of the Software development process because a complete product does not simply come together 
+over night.  Without these check ins, work would have likely been crunched together, and I would not have confidence 
+that I was on the right path for completing the project. 
+	
+The first potion of my project was within the software engineering and design area.  Here I spent time converting a 
+python codebase into a JavaScript codebase.  The ability to replicate functionality inside of a different language is a 
+critical skill to possess as a computer scientist.   
+	
+The second potion of my project was within algorithms and data structures.  Here I spent time improving the quality of 
+the code present.   I did this by improving the readability through comments, and improving the variable names provided.  
+In addition to these changes, I also made error conditions clearer.  In the original artifact there was a lack of 
+information within each error condition.  In order to troubleshoot errors, it is critical that error conditions can 
+be differentiated, this will allow for faster troubleshooting.  At the same time, it is critical you do not give away 
+too much information in an error as that could be a security risk.  For example, in a login if you gave information that 
+the username was correct, but the password was not, it would be very easy to brute force crack that password.  
+	
+The final portion of my final project was around Databases.  For this I created a front-end system for a mongoDb.  
+This is important because it exposed me to another language, html, and it is a real-world example.   No end user wants 
+to have to use a command line interface to interact with a database.   Furthermore, no application developer wants to 
+give unfettered access to a database.  Someone with that kind of access to a database could run whatever query’s they 
+wanted against it, which would be a huge security loophole.  
+	
+The following artifacts, along with the justification of why they were included within my ePortfolio will show that I 
+have grown as a developer since starting the program.  It will display my ability to convert a repo, as well as a new 
+understanding of how to code for readability and sustainability.  In addition to this, it will show that I know how to 
+protect a Database by applying a front end to it, which will perform canned queries instead of arbitrary queries.  
+
+
 ### Code Review
 The Code review process is a useful tool which Software Developers use to learn new skills, or best practices as well as 
 review the process.  I did an informal code review, using a [checklist](./CodeReview/SNHU_Code_Review_Checklist.pdf) 
@@ -30,7 +66,7 @@ code review and it may be found [on youtube.](https://youtu.be/GsANZLlW95w)
 
 ### Software Design/Engineering
 The artifact is a RESTful CRUD API that was written initially in Python, and may be found 
-[within the proejct](./Original%20Artifact/finalProjectPythonFiles.zip) but as apart of this course was converted the 
+[within the project](./Original%20Artifact/finalProjectPythonFiles.zip) but as apart of this course was converted the 
 artifact to JavaScript.  It was initially created as apart of CS-340 a few semesters ago.  The new artifact can be found
 [within the project.](./Software%20Design%20and%20Engineering/mongoDbAccessor.zip)
 
@@ -47,7 +83,7 @@ were handled a bit different than I expected.
 
 ### Algorithms and Data structures
 The artifact is a RESTful CRUD API that was written initially in Python, and may be found 
-[within the proejct](./Original%20Artifact/finalProjectPythonFiles.zip) but as apart of this course was 
+[within the project](./Original%20Artifact/finalProjectPythonFiles.zip) but as apart of this course was 
 converted to the artifact into JavaScript.  It was initially created as apart of CS-340 a few semesters ago. 
 This new artifact can be found [within the project.](./Algoritms%20and%20Data%20Structures/mongoDbAccessor.zip);
 
